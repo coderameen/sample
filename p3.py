@@ -30,3 +30,5 @@ print("The predcition cost of the car is ",prediction)
 
 acc = model.score(x_test,y_test)
 print("The accuracy_score of model is ",acc*100)
+print(acc*100)
+
